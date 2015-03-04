@@ -7,6 +7,11 @@ namespace App.Modelo
 {
     public class OvernightPackage:Package
     {
+        #region "Atributos"
+
+        private string 
+
+        #endregion
 
 
     }
